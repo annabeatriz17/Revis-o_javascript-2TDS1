@@ -31,3 +31,9 @@ Criar o Arsenal:Crie um array chamado armas contendo pelo menos 5 tipos de arm
 Robô Atacante:Crie um array chamado ataques que inicialmente estará vazio. Este array representará a sequência de ataques que seu robô irá realizar.
 Plano de Ataque:Adicione a ordem dos ataques ao array, usando os índices do array armas.
 Relatório de Batalha:Exiba no console a sequência de ataques do seu robô, um por linha, prefixando cada ataque com "Ataque [número do ataque]: [nome do ataque]".
+
+### Exercício 07
+Maratona de Livros 📚
+Contexto: Em um futuro distante, robôs gigantes batalham em arenas pelo entretenimento das multidões! Você é o programador responsável por controlar o arsenal de um desses robôs.
+Criar o Arsenal:Crie um array chamado armas contendo pelo menos 5 tipos de armas (strings), como "Laser", "Mísseis", etc.
+Robô Atacante:Crie um array chamado ataques que inicialmente estará vazio. Este array representará a sequência de ataques que seu robô irá realizar.
